@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  pg5601_8002
 //
-//  Created by Rebecca Urquhart on 26/02/2021.
+//  Created by 8002 on 26/02/2021.
 //
 
 import UIKit
